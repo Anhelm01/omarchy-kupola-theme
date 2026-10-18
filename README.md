@@ -8,19 +8,19 @@ A high-contrast dark theme for [Omarchy](https://omarchy.org/) inspired by black
 
 ## 🎨 Color Palette
 
-The palette is built around deep monochromatic grays representing stone and overcast skies, contrasted with neon hot pink and electric blue accents inspired by stylized church domes.
+The palette is built around deep monochromatic grays representing stone and overcast skies, contrasted with vibrant neon hot pink accents inspired by stylized church domes.
 
 | Color | Hex | Role |
 | :--- | :--- | :--- |
 | **Accent / Pink** | `#FF1493` | Primary accent, notifications, focus states |
-| **Blue** | `#1E90FF` | Secondary accent, links, active borders |
+| **Hot Pink** | `#FF69B4` | Bright accent, directories, links |
 | **Background** | `#1A1A22` | Base background |
 | **Dark Background** | `#121218` | Panels, status bar background |
 | **Darker Background** | `#0C0C10` | Popups, menus, modals |
 | **Lighter Background**| `#2E2E3A` | Cards, active tabs, buttons |
 | **Foreground** | `#D8D8E0` | Main text (cold white) |
 | **Muted** | `#4A4A5A` | Inactive text, borders |
-| **Active Border** | `rgba(ff1493ee) rgba(1e90ffee) 45deg` | Hyprland window gradient |
+| **Active Border** | `rgba(ff1493ee) rgba(ff69b4ee) 45deg` | Hyprland window gradient |
 
 ### Terminal ANSI Colors
 
@@ -28,11 +28,11 @@ The palette is built around deep monochromatic grays representing stone and over
 | :--- | :--- | :--- |
 | **Black** | `#1A1A22` | `#4A4A5A` |
 | **Red** | `#FF1493` | `#FF3EAA` |
-| **Green** | `#6EB8D8` | `#88D0EE` |
+| **Green** | `#85C898` | `#A0DCAF` |
 | **Yellow** | `#E8A8C0` | `#F0B8D0` |
-| **Blue** | `#1E90FF` | `#4EAAFF` |
+| **Blue** | `#FF1493` | `#FF69B4` |
 | **Magenta** | `#D070B8` | `#E888D0` |
-| **Cyan** | `#78C8E8` | `#98E0FF` |
+| **Cyan** | `#E890C0` | `#FFB8E0` |
 | **White** | `#D8D8E0` | `#E8E8F0` |
 
 ---
