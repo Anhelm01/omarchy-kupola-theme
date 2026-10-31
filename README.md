@@ -1,5 +1,7 @@
 # ⛪ Kupola Theme for Omarchy
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A high-contrast dark theme for [Omarchy](https://omarchy.org/) inspired by black & white church architecture photography with vibrant pop-art neon accents.
 
 ![Kupola Preview](preview.png)
@@ -85,4 +87,4 @@ Omarchy automatically renders configurations for:
 
 ## 📄 License
 
-MIT License. Feel free to use, modify, and share!
+MIT License. Copyright (c) 2026 Кратюк Матвей. Feel free to use, modify, and share!
